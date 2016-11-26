@@ -1,5 +1,5 @@
 # Site settings
-title: Avanti Chande - UW ischool
+title: Avanti Chande - UW
 email: avc8@uw.edu
 url: https://avantichande.github.io
 #description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -26,7 +26,8 @@ disqus_shortname: myshortname
 color:
   primary: 94618E #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: FD6E8A #FD6E8A
+  secondary: 85754d #FD6E885754dA
+  secondary-rgb: "145,123,76"
   secondary-dark: 233140 #A2122F
 
 # Footer settings
