@@ -1,8 +1,8 @@
 # Site settings
-title: Avanti Chande - University of Washington
+title: Avanti Chande - UW ischool
 email: avc8@uw.edu
 url: https://avantichande.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+#description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 skills: "Data Science- Web Development - DevOps"
 meta_author: Avanti Chande
 
@@ -55,7 +55,7 @@ address:
   - line: Seattle, WA 98105
 
 # Credits content
-#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
