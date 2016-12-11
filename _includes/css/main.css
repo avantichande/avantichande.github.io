@@ -84,6 +84,8 @@ header {
     color: #fff;
 	background-image: url("/img/seattle.png");
 	background-repeat:no-repeat;
+	background-size: contain;
+	background-size: cover;
 }
 
 header .container {
