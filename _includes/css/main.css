@@ -83,6 +83,7 @@ header {
     text-align: center;
     color: #fff;
 	background-image: url("/img/seattle.png");
+	background-repeat:no-repeat;
 }
 
 header .container {
