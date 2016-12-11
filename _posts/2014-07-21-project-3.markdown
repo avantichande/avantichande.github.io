@@ -5,7 +5,7 @@ date: 2014-07-18
 img: stock-market.png
 alt: image-alt
 project-date: July 2016
-code: https://github.com/avantichande/IPython-Notebooks/blob/master/Data%20Project%203%20-%20Election%20Analysis.ipynb
+code: https://github.com/avantichande/IPython-Notebooks/blob/master/Data%20Project%202%20-%20Stock%20market%20Analysis.ipynb
 category: Data Science
 description: Stock Market Analysis
 
