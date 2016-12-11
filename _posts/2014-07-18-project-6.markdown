@@ -5,7 +5,7 @@ date: 2014-07-18
 img: NLP.png
 alt: NLP.png
 project-date: Aug 2016
-client: Start Bootstrap
+code: https://github.com/avantichande/Regression_Projects/blob/master/Natural%20Language%20Processing.ipynb
 category: Data Science
 description: Natural Language Processing
 

@@ -5,7 +5,7 @@ date: 2014-07-18
 img: Logistic-curve.png
 alt: image-alt
 project-date: Aug 2016
-client: Start Bootstrap
+code: https://github.com/avantichande/Regression_Projects/blob/master/Supervised%20Learning%20-%20Logistic%20Regression.ipynb
 category: Data Science
 description: Supervised Learning - Logistic Regression
 
