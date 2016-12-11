@@ -5,7 +5,7 @@ date: 2014-07-18
 img: ship.png
 alt: image-alt
 project-date: July 2016
-client: Start Bootstrap
+code: [View Code](https://github.com/avantichande/IPython-Notebooks/blob/master/First%20Data%20Project%20-%20Titanic%20Kaggle%20dataset.ipynb)
 category: Data Science
 description: Titanic Data Analysis
 
