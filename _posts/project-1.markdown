@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+title: Project 1 - Titanic Data Analysis
+date: 2014-07-18
+img: titanic.png
+alt: image-alt
+project-date: July 2016
+client: Start Bootstrap
+category: Data Analysis
+description: Analysed the Kaggle Titanic Dataset to address - What Factors played a role in passengers surviving the Titanic?
+ <a href="https://github.com/avantichande/IPython-Notebooks/blob/master/First%20Data%20Project%20-%20Titanic%20Kaggle%20dataset.ipynb">View Code</a>
+---
