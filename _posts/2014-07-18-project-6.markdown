@@ -3,8 +3,8 @@ layout: default
 modal-id: 6
 date: 2014-07-18
 img: NLP.png
-alt: image-alt
-project-date: April 2014
+alt: NLP.png
+project-date: Aug 2016
 client: Start Bootstrap
 category: Data Science
 description: Natural Language Processing

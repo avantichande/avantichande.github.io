@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 2
 date: 2014-07-18
-img: stock-market.png
+img: Election.png
 alt: image-alt
-project-date: April 2014
+project-date: July 2016
 client: Start Bootstrap
 category: Data Science
-description: Stock Market Analysis
+description: Election Data Analysis
 
 ---
