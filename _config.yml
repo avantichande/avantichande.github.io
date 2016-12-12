@@ -44,18 +44,17 @@ social:
   # url:
   - title: linkedin
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: email
-    url: avc8@uw.edu
+ 
   - title: github
     url: https://github.com/avantichande
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 4231 12th Ave NE
-  - line: Seattle, WA 98105
+  - line: 4231 12th Ave NE, Seattle, WA 98105
+  #- line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
