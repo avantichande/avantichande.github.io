@@ -42,9 +42,9 @@ social:
   #  url: http://twitter.com/jekyllrb
   #- title: facebook
   # url:
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/avanti07
-  - title: Email
+  - title: linkedin
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: email
     url: avc8@uw.edu
   - title: github
     url: https://github.com/avantichande
@@ -55,7 +55,7 @@ address:
   - line: Seattle, WA 98105
 
 # Credits content
-#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
