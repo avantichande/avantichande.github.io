@@ -1,5 +1,5 @@
 # Site settings
-title: Avanti Chande - UW
+title: Hello, Nice to meet you!
 email: avc8@uw.edu
 url: https://avantichande.github.io
 #description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -34,20 +34,20 @@ footer:
   copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
-  credits: Credits
+  #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  #- title: twitter
+  #  url: http://twitter.com/jekyllrb
+  #- title: facebook
+  # url:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/avanti07
+  - title: Email
+    url: avc8@uw.edu
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/avantichande
 
 # Postal address (add as many lines as necessary)
 address:
@@ -55,7 +55,7 @@ address:
   - line: Seattle, WA 98105
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
