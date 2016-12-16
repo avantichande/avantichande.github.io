@@ -9,8 +9,6 @@ code: https://github.com/avantichande/Regression_Projects/blob/master/Supervised
 category: Data Science
 language: Python
 project_name: Supervised Learning - Linear Regression
-description: The project involves analysis of a data set consisting of house prices in Boston. 
-Performed a single variable linear regression using numpy, pandas and then move on to using scikit learn
-to predict house prices in Boston using the least squares method.
+description: The project involves analysis of a data set consisting of house prices in Boston. Performed a single variable linear regression using numpy, pandas and then move on to using scikit learnto predict house prices in Boston using the least squares method.
 
 ---
