@@ -9,6 +9,6 @@ code: https://github.com/avantichande/Regression_Projects/blob/master/Supervised
 category: Data Science
 language: Python
 project_name: Supervised Learning - Logistic Regression
-description: Supervised Learning - Logistic Regression
+description: The project is on Logistic Regression to perform classification of a data set.
 
 ---
