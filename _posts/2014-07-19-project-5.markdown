@@ -9,5 +9,6 @@ code: https://github.com/avantichande/Regression_Projects/blob/master/Supervised
 category: Data Science
 language: Python
 project_name: Supervised Learning - Logistic Regression
+description: The project is on Logistic Regression using Binary Classification. The data set is from a 1974 survey of women by Redbook magazine. Married women were asked if they have had extramarital affairs. The focus is on binary classification to have two outputs, a positive and negative; 1 or 0. The approach on this classification problem was asking the question: Given certain variables for each woman, can we classify them as either having particpated in an affair, or not participated in an affair. 
 
 ---

@@ -9,6 +9,6 @@ code: https://github.com/avantichande/IPython-Notebooks/blob/master/Data%20Proje
 category: Data Science
 language: Python
 project_name: Election Data Analysis
-description: In this project we will analyze two datasets. The first data set will be the results of political polls between Obama and Romney. Analysis involved voter sentiment analysis, how it changed over time and also the effect in the polls fromt he debstes. The project also involved donor dataset analysis. It mainly consisted of donor demographic patterns, the difference of donations between democrats and republicans and to find out a pattern, if any, in the donation amounts. 	
+description: Two data sets were analysed in this project. The first data set will be the results of political polls between Obama and Romney. Analysis involved voter sentiment analysis, how it changed over time and also the effect in the polls from the debates. The project also involved donor dataset analysis. It mainly consisted of donor demographic patterns, the difference of donations between democrats and republicans and to find out a pattern, if any, in the donation amounts. 
 
 ---
