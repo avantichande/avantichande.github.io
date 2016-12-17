@@ -9,14 +9,6 @@ code: https://github.com/avantichande/IPython-Notebooks/blob/master/First%20Data
 category: Data Science
 language: Python
 project_name: Titanic Data Analysis
-description: All good data analysis projects begin with trying to answer questions. In this project, I tried to analyse the Titanic survival dataset to answer this list of questions:
-
-1.) Who were the passengers on the Titanic? (Ages,Gender,Class,..etc)
-2.) What deck were the passengers on and how does that relate to their class?
-3.) Where did the passengers come from?
-4.) Who was alone and who was with family?
-
-Digging deeper, tried to analyse the following question:
-5.) What factors helped someone survive the sinking?
+description: All good data analysis projects begin with trying to answer questions. In this project, I tried to analyse the Titanic survival dataset to answer - What factors helped someone survive the sinking?
 
 ---
