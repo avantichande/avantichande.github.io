@@ -7,6 +7,8 @@ alt: image-alt
 project-date: July 2016
 code: https://github.com/avantichande/IPython-Notebooks/blob/master/Data%20Project%202%20-%20Stock%20market%20Analysis.ipynb
 category: Data Science
-description: Stock Market Analysis
+language: Python
+project_name: Stock Market Analysis
+description: The project involved analysis of data from the stock market, particularly some technology stocks. Used pandas to get stock information, visualize different aspects of it, and finally looked at a few ways of analyzing the risk of a stock, based on its previous performance history. Also predicted future stock prices through Monte Carlo method!
 
 ---

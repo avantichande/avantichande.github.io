@@ -62,6 +62,10 @@ address:
 markdown: kramdown
 permalink: pretty
 
+kramdown:
+  input: GFM
+  hard_wrap: false
+
 #Sitemap
 gems:
   - jekyll-sitemap

@@ -7,6 +7,8 @@ alt: NLP.png
 project-date: Aug 2016
 code: https://github.com/avantichande/Regression_Projects/blob/master/Natural%20Language%20Processing.ipynb
 category: Data Science
-description: Natural Language Processing
+language: Python
+project_name: Natural Language Processing
+description: Analysed a file containing a collection of more than 5000 SMS phone messages using NLTK(Natural Language tool kit) platforn in Python. The project consists of combining machine learning techniques with text, and using math and statistics to get that text in a format that the machine learning algorithms can understand! 
 
 ---
