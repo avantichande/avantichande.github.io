@@ -9,6 +9,6 @@ code: https://github.com/avantichande/IPython-Notebooks/blob/master/First%20Data
 category: Data Science
 language: Python
 project_name: Titanic Data Analysis
-description: All good data analysis projects begin with trying to answer questions. In this project, I tried to analyse the Titanic survival dataset to answer - What factors helped someone survive the sinking?
+description: All good data analysis projects begin with trying to answer questions. This project consisted of the Titanic survival dataset analysis to answer - What factors helped someone survive the sinking?
 
 ---
