@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-18
+img: lc.png
+alt: image-alt
+project-date: Aug 2016
+code: https://github.com/avantichande/Regression_Projects/blob/master/Lending_Club_Logistic_Regression.ipynb
+category: Data Science
+language: Python
+project_name: Lending Club Dataset - Logistic Regression
+description: In the project, performed exploratory analysis on the loan data from the famous lending club dataset. Finally predicted whether a borrower is going to be a defaulter using Logistic Regression.
+
+---
