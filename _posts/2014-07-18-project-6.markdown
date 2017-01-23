@@ -9,6 +9,6 @@ code: https://github.com/avantichande/Regression_Projects/blob/master/Lending_Cl
 category: Data Science
 language: Python
 project_name: Lending Club Dataset Analysis
-description: The dataset contained complete loan data for all loans issued through the 2007-2015, including the current loan status (Current, Late, Fully Paid, etc.) and latest payment information. In the project, the loan data was explored, the borrowers were explored. Finally, predicted whether a borrower is going to be a defaulter using Logistic Regression.
+description: The dataset contained complete loan data for all loans issued through the 2007-2015, including the current loan status (Current, Late, Fully Paid, etc.) and latest payment information. In the project, performed exploratory analysis on the loan data. Finally, predicted whether a borrower is going to be a defaulter using Logistic Regression.
 
 ---
